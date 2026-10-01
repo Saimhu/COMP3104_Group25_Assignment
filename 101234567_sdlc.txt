@@ -1,0 +1,4 @@
+Importance of DevOps in SDLC
+Continuous Integration accelerates feature deployment cycles.
+Automated testing reduces deployment bugs and system downtime.
+Completed student documentation files.
