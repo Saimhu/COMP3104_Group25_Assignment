@@ -1,2 +1,3 @@
 COMP 2156 / COMP 3104 DevOps Course
 Course focuses on Git version control, branching strategies, and CI/CD pipelines.
+Emphasizes team collaboration through GitHub Actions and pull request reviews.
