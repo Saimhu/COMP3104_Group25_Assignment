@@ -1,1 +1,2 @@
 Importance of DevOps in SDLC
+Continuous Integration accelerates feature deployment cycles.
